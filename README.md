@@ -1,10 +1,10 @@
-# freshflutter
+# Fresh Flutter 2021
 
-A fresh scaffeold Flutter project.
+A fresh scaffold Flutter project icluded support for Android, iOS and Web.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. Happy coding :)
 
 A few resources to get you started if this is your first Flutter project:
 
